@@ -28,6 +28,7 @@
 ### 사전 준비 사항
 
 > **여러분의 제품/서비스를 Microsoft 애저 클라우드에 배포하기 위해 사전에 필요한 준비 사항들을 적어주세요.**
+
 react, vscode, spring boot, Python 3.8, flask 설치
 
 ## 시작하기
