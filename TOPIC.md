@@ -54,7 +54,7 @@ https://github.com/hackersground-kr/hg-httpsgithubcomtumblecat44t-shirt-rich/blo
 ## 제품 소개 슬라이드
 
 **(필수)** 제품 또는 서비스를 소개하는 슬라이드 덱을 리포지토리에 추가해 주세요. 슬라이드 덱은 [decks](./decks) 디렉토리에 저장한 후 이곳에 링크를 걸어주세요.
-https://github.com/hackersground-kr/hg-httpsgithubcomtumblecat44t-shirt-rich/blob/main/decks/%E1%84%90%E1%85%B5%E1%84%89%E1%85%A7%E1%84%8E%E1%85%B3%20%E1%84%87%E1%85%AE%E1%84%8C%E1%85%A1%E1%84%83%E1%85%AC%E1%84%80%E1%85%B5_diery.pdf
+https://github.com/hackersground-kr/hg-httpsgithubcomtumblecat44t-shirt-rich/blob/main/decks/%E1%84%90%E1%85%B5%E1%84%89%E1%85%A7%E1%84%8E%E1%85%B3%20%E1%84%87%E1%85%AE%E1%84%8C%E1%85%A1%E1%84%83%E1%85%AC%E1%84%80%E1%85%B5%20%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD_1.pdf
 
 ## 제품 소개 동영상
 
